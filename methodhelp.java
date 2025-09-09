@@ -18,7 +18,7 @@
           String s;
           printHello("Thomas");
           s = returnHello("Jane");
-          System.out.println(s);
+          System.out.print(s);
       }
 
   }
